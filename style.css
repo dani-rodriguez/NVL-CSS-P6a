@@ -1,0 +1,16 @@
+.primero{background: #E6E6E6; }
+.segundo{background:#CCCCCC }
+.tercero{background:#B3B3B3 }
+.cuarto{background: #999999}
+.quinto{color:white;background:#808080 }
+.sexto{color:white;background: #666666}
+.septimo{color:white;background:#4D4D4D }
+.octavo{color:white;background:#333333 }
+.noveno{color:white;background:#191919 }
+.decimo{color:white;background: #000000}
+td{
+	padding-left: 50px;padding-right: 50px; margin-top: 50px;text-align: center;
+}
+body{
+	font-size: 25px;font-stretch: condensed;
+}
